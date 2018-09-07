@@ -12,6 +12,7 @@
     <session id="-1136359099">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -77,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="343">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
                 <marker date="1536364051068" expanded="false" signature="6:78" ph="..." />
                 <marker date="1536364051068" expanded="true" signature="124:980" ph="{...}" />
@@ -95,6 +96,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -120,6 +124,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -134,11 +139,6 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -191,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536356561363</updated>
-      <workItem from="1536356565311" duration="3728000" />
+      <workItem from="1536356565311" duration="3996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3728000" />
+    <option name="totallyTimeSpent" value="3996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,10 +209,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102564104" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.102564104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -221,8 +220,8 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Build" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -287,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="343">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding>
             <marker date="1536364051068" expanded="false" signature="6:78" ph="..." />
             <marker date="1536364051068" expanded="true" signature="124:980" ph="{...}" />
